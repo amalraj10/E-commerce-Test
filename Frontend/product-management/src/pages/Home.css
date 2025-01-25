@@ -1,0 +1,60 @@
+.custom-pagination .ant-pagination-item-active {
+  border-color: #f7b614 !important;
+  background-color: #f7b614 !important;
+}
+
+.custom-pagination .ant-pagination-item-active a {
+  color: white !important;
+}
+
+.custom-pagination .ant-pagination-item {
+  border-radius: 50%;
+}
+
+.custom-pagination .ant-pagination-item:hover {
+  border-color: #f7b614;
+}
+
+.custom-pagination .ant-pagination-item:hover a {
+  color: #f7b614;
+}
+
+.ant-select-selector {
+  border-color: #f0f0f0 !important;
+  background-color: #f8f8f8 !important;
+}
+
+.ant-select-focused .ant-select-selector {
+  border-color: #f7b614 !important;
+  box-shadow: 0 0 0 2px rgba(247, 182, 20, 0.2) !important;
+}
+
+.ant-select-item-option-selected {
+  background-color: #fff7e6 !important;
+}
+
+.ant-select-item-option:hover {
+  background-color: #fff7e6 !important;
+}
+
+.ant-checkbox-wrapper {
+  color: #333 !important;
+  font-size: 14px !important;
+}
+
+.ant-checkbox-wrapper + .ant-checkbox-wrapper {
+  margin-left: 0 !important;
+}
+
+.ant-checkbox-inner {
+  border-radius: 3px !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #f7b614 !important;
+  border-color: #f7b614 !important;
+}
+
+.ant-checkbox-wrapper:hover .ant-checkbox-inner {
+  border-color: #f7b614 !important;
+} 

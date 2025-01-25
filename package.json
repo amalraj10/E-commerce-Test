@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^5.5.2",
+    "@types/react-bootstrap": "^0.32.37",
+    "ant": "^0.0.0",
+    "antd": "^5.23.2",
+    "bootstrap": "^5.3.3",
+    "d": "^1.0.2",
+    "sass": "^1.83.4"
+  }
+}
